@@ -1,0 +1,29 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f8f8f8;
+    color: #333;
+    margin: 20px;
+}
+
+h1{
+    color: #2c3e50;
+    text-align: center;
+    cursor: default;
+}
+ol{
+    list-style-type: decimal;
+    padding-left: 20px;
+}
+
+li{
+    margin: 10px 0;
+}
+a {
+    text-decoration: none;
+    color: #2980b9;
+    font-weight: bold;
+}
+a:hover{
+    color: #e74c3c;
+    text-decoration: underline;
+}
